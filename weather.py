@@ -71,3 +71,4 @@ class Weather:
 
 app=Weather()
 app.run()
+print("тестовая строка")
